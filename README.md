@@ -4,11 +4,9 @@ Description: Faire-un-voyage is a website that allows users to book flights with
 
 ### Technologies Used:
 
- - HTML
- - CSS
- - JavaScript
- - PHPMyAdmin (Database)
- - Mailer (for registration verification and forgot password)
+ - Frontend: HTML. CSS, JavaScript
+ - Backend: PHP
+ - Database: MySQL (managed by PHPMyAdmin)
 
 ### Features:
 
