@@ -1,4 +1,4 @@
-## Project Name: faire-un-voyage
+## Project Name: Faire-un-voyage
 
 Description: Faire-un-voyage is a website that allows users to book flights within the Philippines. Future development will include the ability to book flights worldwide.
 
